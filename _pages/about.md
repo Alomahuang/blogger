@@ -5,7 +5,8 @@ title: "About"
 
 I have many blogs, but this probably will be my last one to stay.
 
-He does say **probably** {: .notice--warning}
+He does say **probably**. 
+{: .notice--warning}
 
 I am not a super enthusiastic geek, but I love solving technical problems, and enjoy analyzing those them.
 
