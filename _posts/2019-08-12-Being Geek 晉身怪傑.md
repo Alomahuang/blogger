@@ -1,5 +1,5 @@
 ---
-title: 每天最重要的2小時
+title: Being Geek 晉身怪傑
 date: 2019-08-10T00:00:00-00:00
 categories: 
   - Books
