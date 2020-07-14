@@ -16,12 +16,16 @@ So I'm just gonna make the steps more clear with some screen shots!
 ### What you should do
 1. Go to Prismjs.com and download both js and css files of the theme you like
 2. Paste the content of the css file to: Theme->Customise->Advanced->Add Css->Add custom CSS
+
 ![step2]({{ site.baseurl }}/assets/images/2020/03/20200301.PNG)
+
 ![step2]({{ site.baseurl }}/assets/images/2020/03/20200302.PNG)
 3. Wrap the content of prism.js with <script></script>
 4. Paste it to Layout->Sidebar->Add a Gadget->HTML/Javascript
+
 ![step4]({{ site.baseurl }}/assets/images/2020/03/20200303.PNG)
-![step4]({{ site.baseurl }}/assets/images/2020/03/20200304.PNG)
+
+![step4]({{ site.baseurl }}/assets/images/2020/03/20200304.png)
 
 ### How to use
 when you write the article, go to html mode and paste the following dom.
