@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Aloma"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Once a yogi. A web developer. A husband. A dreamer."
+  bio    : "A web developer. A husband. A french learner."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
