@@ -6,6 +6,8 @@ categories:
 tags: 
   - 書
   - 小說
+  - Book
+  - Review
 comments: true
 ---
 
