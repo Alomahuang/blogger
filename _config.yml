@@ -76,6 +76,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Alomahuang"
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "if-and-else"
+
 defaults:
   # _posts
   - scope:
@@ -84,7 +89,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
