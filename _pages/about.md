@@ -24,11 +24,34 @@ title: "About"
     line-height: 1;
     vertical-align: middle;
 }
+.em{
+    font-weight: bold;
+    animation: color 5s infinite linear;
+}
+@keyframes color {
+  0%   { background: #74ff9a; }
+  30%  { background: #74f2ff7d; }
+  50%  { background: #74ff9a; }
+  80%  { background: #ffe9747d; }
+  100% { background: #74ff9a; }
+}
+.un {
+  background: 
+    linear-gradient(to right, #74ff9a, #74ff9a),    linear-gradient(to right, rgb(255 168 0), #ee5f5b, rgb(200 0 184));
+  background-size: 100% 0.3em, 0 0.3em;
+  background-position: 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 500ms;
+}
+.un:hover,
+.un:focus {
+  background-size: 0 0.3em, 100% 0.3em;
+}
 </style>
 
-I am a senior ==full-stack developer== who is into various development technologies. I primarily work **on the web**, but occasionally I immerse myself in mobile development.
+I am a senior <span class="em">full-stack developer</span> who is into various development technologies. I primarily work on the **web** development, but occasionally I immerse myself in mobile development.
 
-I love realizing ideas into actual products and solving technical problems. The process is a mix of excitement and torture, but mostly excitement.
+I love <span class="un">realizing ideas into actual products</span> and solving technical problems. The process is a mix of excitement and torture, but mostly excitement.
 
 ---
 
