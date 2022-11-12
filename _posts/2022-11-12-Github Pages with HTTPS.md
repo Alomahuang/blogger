@@ -7,7 +7,7 @@ tags:
   - Github Pages
 ---
 
-**Intro:** I registered my custom domain with GoDaddy and encountered a problem associating the domain to GitHub Pages with HTTPS. This article will help you to solve the problem.
+💡  I registered my custom domain with GoDaddy and encountered a problem associating the domain to GitHub Pages with HTTPS. This article will help you to solve the problem.
 {: .notice--info}
 
 ## Oh oh

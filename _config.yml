@@ -56,22 +56,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Aloma"
+  name   : "Aloma Huang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A web developer. A husband. A french learner."
+  bio    : "A developer. A husband."
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/hsuchenghuang"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/hsucheng-huang/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Alomahuang"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/hsuchenghuang"
+    - label: "LinkedIn" 
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/hsucheng-huang/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Alomahuang"
