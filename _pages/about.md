@@ -3,11 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-I have many blogs, but this probably will be my last one to stay.
+I am a senior full-stack developer who is into various development technologies. I **primarily** work on the web, but occasionally I immerse myself in mobile development.
 
-He does say **probably**. 
-{: .notice--warning}
+I love realizing ideas into actual products and solving technical problems. The process is a mix of excitement and torture, but mostly excitement.
 
-I am not a super enthusiastic geek, but I love solving technical problems somehow, and enjoy analyzing them as well.
+My tech stacks:
 
-**Spoiler alert**. If I have to choose a character in RPG games, I either go with a priest or a monk.
+<h3><span class="fr-class-skill-tag"><span class="fr-myicon fr-deletable color logos fr-myicon-img" style="background: url(https://i0.wp.com/cdn-icons-png.flaticon.com/512/5968/5968292.png?w=100);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Javascript</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon fr-deletable color logos fr-myicon-img" style="background: url(https://spa-assets.cakeresume.com/assets/editor/icons/color/devicon/react.svg);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; React</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon fr-deletable color logos fr-myicon-img" style="background: url(https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png?w=100);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Ruby</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon fr-deletable color logos fr-myicon-img" style="background: url(https://spa-assets.cakeresume.com/assets/editor/icons/color/devicon/rails.svg);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Ruby on Rails</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon fr-deletable color logos fr-myicon-img" style="background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; PostgreSQL</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon fr-deletable color logos fr-myicon-img" style="background: url(https://i0.wp.com/www.zencos.com/wp-content/uploads/2021/11/aws-logo.png?w=100);background-position-x: center;width: 40px;"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; AWS</span>&nbsp; &nbsp;</h3>
