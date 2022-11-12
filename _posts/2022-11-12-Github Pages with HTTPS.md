@@ -7,6 +7,9 @@ tags:
   - Github Pages
 ---
 
+:watermelon: I registered my custom domain with GoDaddy and encountered a problem associating the domain to GitHub Pages with HTTPS. This article will help you to solve the problem.
+{: .notice--info}
+
 ## Oh oh
 
 When using a custom domain for my GitHub Pages, and after waiting for DNS to work, I still get the message that my DNS provider is not properly configured to support HTTPS.
