@@ -61,7 +61,7 @@ author:
   bio    : "A developer. A husband."
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/hsucheng-huang/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -70,7 +70,7 @@ author:
 footer:
   links:
     - label: "LinkedIn" 
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/hsucheng-huang/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
