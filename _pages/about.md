@@ -50,9 +50,11 @@ title: "About"
 }
 </style>
 
-![img]({{ site.baseurl }}/assets/images/2022/11/04.jpg)
+---
 
 I am a senior <span class="em">full-stack developer</span> who is into various development technologies. I primarily work on the **web** development, but occasionally I immerse myself in mobile development.
+
+![img]({{ site.baseurl }}/assets/images/2022/11/04.jpg)
 
 I love <span class="un">realizing ideas into actual products</span> and solving technical problems. The process is a mix of excitement and torture, but mostly excitement.
 
@@ -79,4 +81,4 @@ I love <span class="un">realizing ideas into actual products</span> and solving 
 <span style="letter-spacing:.094rem;line-height:1.15;font-size:1.15em"> Industry, innovation and infrastructure </span>
 </div>
 
-####[(more...)](https://www.undp.org/european-union/sustainable-development-goals?utm_source=EN&utm_medium=GSR&utm_content=US_UNDP_PaidSearch_Brand_English&utm_campaign=CENTRAL&c_src=CENTRAL&c_src2=GSR&gclid=Cj0KCQiA4OybBhCzARIsAIcfn9ktRcnHB6K-85q-8uCkehODtHIPVwiMI8FAoIeb68gg-rxPkXHlHBEaAkViEALw_wcB)
+[(more...)](https://www.undp.org/european-union/sustainable-development-goals?utm_source=EN&utm_medium=GSR&utm_content=US_UNDP_PaidSearch_Brand_English&utm_campaign=CENTRAL&c_src=CENTRAL&c_src2=GSR&gclid=Cj0KCQiA4OybBhCzARIsAIcfn9ktRcnHB6K-85q-8uCkehODtHIPVwiMI8FAoIeb68gg-rxPkXHlHBEaAkViEALw_wcB)
