@@ -58,7 +58,15 @@ I am a senior <span class="em">full-stack developer</span> who is into various d
 
 I love <span class="un">realizing ideas into actual products</span> and solving technical problems. The process is a mix of excitement and torture, but mostly excitement.
 
+## Personalities
+### Empathic
+Understanding people's emotions and difficulties make me a great communicator, and I am motivated to solve people's problems. Still, sometimes I need some disconnection from the external world. But be aware even though I might seem aloof in appearance, I'm still listening.
 
+### Objective
+I love science, so I love facts that are constructed with shreds of evidence. I am full of all emotions, but I am proud to be objective in making decisions and taking action. Emotions are beautiful, but the proof and evidence are essential.
+
+### Goal-oriented
+I love achieving goals while trying my best to enjoy the journey. Yes, people talk about enjoying the trip, but I start to have the impression people lie to themselves to give up the goal. Trial and error are inevitable, but we should try our best to accomplish what we have set up.
 
 ## Skills
 
