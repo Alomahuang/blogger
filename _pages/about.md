@@ -51,7 +51,7 @@ title: "About"
 .divB {
     font-family: ProximaNova, sans-serif;
     color: white;
-    font-size: 2.5rem;
+    font-size: 2rem;
     padding: 50px 80px;
     display: flex;
     align-items: center;
