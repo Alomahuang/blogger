@@ -18,7 +18,7 @@ title: "About"
 }
 .fr-myicon-img{
     background-repeat: no-repeat!important;
-    background-size: cover!important;
+    background-size: contain!important;
     font-size: inherit;
     display: inline-block;
     margin: -0.1em 0.1em 0.1em;
@@ -48,6 +48,36 @@ title: "About"
 .un:focus {
   background-size: 0 0.3em, 100% 0.3em;
 }
+.divB {
+    font-family: ProximaNova, sans-serif;
+    color: white;
+    font-size: 2.5rem;
+    padding: 50px 80px;
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+  }
+.divB span:first-child {
+      margin-right: 80px;
+    }
+
+  /* Styles for mobile devices (screen width <= 480px) */
+  @media (max-width: 480px) {
+    .divB {
+      font-size: 1.5rem;
+      padding: 20px;
+    }
+    .divB span:first-child {
+      font-size: 1em;
+      padding: 10px;
+      margin-right: 20px;
+    }
+    .divB span:last-child {
+      font-size: 0.8em;
+      letter-spacing: .06rem;
+      line-height: 1.1;
+    }
+  }
 </style>
 
 ---
@@ -70,23 +100,27 @@ I love achieving goals while trying my best to enjoy the journey. Yes, people ta
 
 ## Skills
 
-<h3><span class="fr-class-skill-tag"><span class="fr-myicon  fr-myicon-img" style="background: url(https://i0.wp.com/cdn-icons-png.flaticon.com/512/5968/5968292.png?w=100);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Javascript</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://spa-assets.cakeresume.com/assets/editor/icons/color/devicon/react.svg);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; React</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png?w=100);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Ruby</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://spa-assets.cakeresume.com/assets/editor/icons/color/devicon/rails.svg);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Ruby on Rails</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; PostgreSQL</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://i0.wp.com/www.zencos.com/wp-content/uploads/2021/11/aws-logo.png?w=100);background-position-x: center;width: 40px;"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; AWS</span>&nbsp; &nbsp;</h3>
+<span class="fr-class-skill-tag"><span class="fr-myicon  fr-myicon-img" style="background: url(https://i0.wp.com/cdn-icons-png.flaticon.com/512/5968/5968292.png?w=100);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Javascript</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://spa-assets.cakeresume.com/assets/editor/icons/color/devicon/react.svg);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; React</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png?w=100);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Ruby</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://spa-assets.cakeresume.com/assets/editor/icons/color/devicon/rails.svg);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Ruby on Rails</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; PostgreSQL</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://media-exp1.licdn.com/dms/image/C560BAQE_4UwvNNtNTQ/company-logo_100_100/0/1640205885683?e=1675900800&v=beta&t=CuRLgjPzp942I-7GeCVXBOsm9O3x4OsUHApEsGytgUU);background-position-x: center;width: 40px;"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; AWS</span>&nbsp; &nbsp;
 
+## Certificates
+
+<span class="fr-class-skill-tag"><span class="fr-myicon  fr-myicon-img" style="background: url(https://media-exp1.licdn.com/dms/image/C510BAQFHT6p77J76aA/company-logo_100_100/0/1519888899260?e=1675900800&v=beta&t=kbNYIdU5Dz1_eHQzsmFvXTgNOkr_dAVExT9RG4bmeos);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Master Track in Innovation Management & Entrepreneurship</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://media-exp1.licdn.com/dms/image/C560BAQE_4UwvNNtNTQ/company-logo_100_100/0/1640205885683?e=1675900800&v=beta&t=CuRLgjPzp942I-7GeCVXBOsm9O3x4OsUHApEsGytgUU);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; AWS Certified Cloud Practitioner</span>&nbsp; &nbsp;<span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://i0.wp.com/assets.stickpng.com/images/5847f9cbcef1014c0b5e48c8.png?w=100);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Google IT Automation with Python Specialization</span><span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://i0.wp.com/assets.stickpng.com/images/5847f9cbcef1014c0b5e48c8.png?w=100);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Google IT Suppor Specialization</span><span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://i0.wp.com/assets.stickpng.com/images/5847f9cbcef1014c0b5e48c8.png?w=100);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Google Data Analytics Specialization</span><span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://i0.wp.com/assets.stickpng.com/images/5847f9cbcef1014c0b5e48c8.png?w=100);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Google Project Management Specialization</span>
 
 
 ## Sustainable Development Goals (SDGs) that matter to me
 
-<div style="font-family:ProximaNova,sans-serif;background:#e5243b;color:white;font-size:30px;padding:0px 50px;display:flex;align-items:center;font-weight:700">
-<span style="padding: 20px;font-size:2em;margin-right:50px">1</span>
-<span style="letter-spacing:.094rem;line-height:1.15;font-size:1.15em">NO POVERTY</span>
+<div class="divB" style="background: #e5243b;">
+  <span>1</span>
+  <span>NO POVERTY</span>
 </div>
-<div style="font-family:ProximaNova,sans-serif;background:#ff3a21;color:white;font-size:30px;padding:0px 50px;display:flex;align-items:center;font-weight:700">
-<span style="padding: 20px;font-size:2em;margin-right:50px">5</span>
-<span style="letter-spacing:.094rem;line-height:1.15;font-size:1.15em">GENDER EQUALITY</span>
+<div class="divB" style="background: #ff3a21;">
+  <span>5</span>
+  <span>GENDER EQUALITY</span>
 </div>
-<div style="font-family:ProximaNova,sans-serif;background:#fd6925;color:white;font-size:30px;padding:0px 50px;display:flex;align-items:center;font-weight:700">
-<span style="padding: 20px;font-size:2em;margin-right:50px">9</span>
-<span style="letter-spacing:.094rem;line-height:1.15;font-size:1.15em"> Industry, innovation and infrastructure </span>
+<div class="divB" style="background: #fd6925">
+  <span>9</span>
+  <span>Industry, innovation and infrastructure</span>
 </div>
+
 
 [(more...)](https://www.undp.org/european-union/sustainable-development-goals?utm_source=EN&utm_medium=GSR&utm_content=US_UNDP_PaidSearch_Brand_English&utm_campaign=CENTRAL&c_src=CENTRAL&c_src2=GSR&gclid=Cj0KCQiA4OybBhCzARIsAIcfn9ktRcnHB6K-85q-8uCkehODtHIPVwiMI8FAoIeb68gg-rxPkXHlHBEaAkViEALw_wcB)
