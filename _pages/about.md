@@ -93,13 +93,17 @@ What sets me apart as a developer is my ability to think critically and approach
 Overall, I am committed to <span class="un">delivering exceptional work and providing value to my clients.</span> I am confident that my skills and experience make me a valuable asset to any team, and I am excited to continue growing and learning as a full-stack developer.
 
 ## Personalities
+
 ### Empathic
-Understanding people's emotions and difficulties make me a great communicator, and I am motivated to solve people's problems. Still, sometimes I need some disconnection from the external world. But be aware even though I might seem aloof in appearance, I'm still listening.
+
+Understanding people's emotions and difficulties make me a great communicator, and I am motivated to solve people's problems.
 
 ### Objective
+
 I love science, so I love facts that are constructed with shreds of evidence. I am full of all emotions, but I am proud to be objective in making decisions and taking action. Emotions are beautiful, but the proof and evidence are essential.
 
 ### Goal-oriented
+
 I love achieving goals while trying my best to enjoy the journey. Yes, people talk about enjoying the trip, but I start to have the impression people lie to themselves to give up the goal. Trial and error are inevitable, but we should try our best to accomplish what we have set up.
 
 ## Skills
@@ -109,7 +113,6 @@ I love achieving goals while trying my best to enjoy the journey. Yes, people ta
 ## Certificates
 
 <span class="fr-class-skill-tag"><span class="fr-myicon  fr-myicon-img" style="background: url(https://media-exp1.licdn.com/dms/image/C510BAQFHT6p77J76aA/company-logo_100_100/0/1519888899260?e=1675900800&v=beta&t=kbNYIdU5Dz1_eHQzsmFvXTgNOkr_dAVExT9RG4bmeos);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Master Track in Innovation Management & Entrepreneurship</span><span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://media-exp1.licdn.com/dms/image/C560BAQE_4UwvNNtNTQ/company-logo_100_100/0/1640205885683?e=1675900800&v=beta&t=CuRLgjPzp942I-7GeCVXBOsm9O3x4OsUHApEsGytgUU);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; AWS Certified Cloud Practitioner</span><span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://i0.wp.com/assets.stickpng.com/images/5847f9cbcef1014c0b5e48c8.png?w=100);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Google IT Automation with Python Specialization</span><span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://i0.wp.com/assets.stickpng.com/images/5847f9cbcef1014c0b5e48c8.png?w=100);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Google IT Suppor Specialization</span><span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://i0.wp.com/assets.stickpng.com/images/5847f9cbcef1014c0b5e48c8.png?w=100);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Google Data Analytics Specialization</span><span class="fr-class-skill-tag"><span class="fr-myicon   fr-myicon-img" style="background: url(https://i0.wp.com/assets.stickpng.com/images/5847f9cbcef1014c0b5e48c8.png?w=100);"><span class="fr-icon-space-wrapper">&nbsp;</span></span>&nbsp; Google Project Management Specialization</span>
-
 
 ## Sustainable Development Goals (SDGs) that matter to me
 
@@ -125,6 +128,5 @@ I love achieving goals while trying my best to enjoy the journey. Yes, people ta
   <span>9</span>
   <span>Industry, innovation and infrastructure</span>
 </div>
-
 
 [(more...)](https://www.undp.org/european-union/sustainable-development-goals?utm_source=EN&utm_medium=GSR&utm_content=US_UNDP_PaidSearch_Brand_English&utm_campaign=CENTRAL&c_src=CENTRAL&c_src2=GSR&gclid=Cj0KCQiA4OybBhCzARIsAIcfn9ktRcnHB6K-85q-8uCkehODtHIPVwiMI8FAoIeb68gg-rxPkXHlHBEaAkViEALw_wcB)

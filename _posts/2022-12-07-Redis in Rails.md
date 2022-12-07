@@ -6,6 +6,8 @@ categories:
 tags:
   - Ruby on Rails
   - Redis
+toc: true
+toc_sticky: true
 ---
 
 💡  Playreal encountered a performance issue when a large number of users logged in to retrieve game data and teammate records. I used Redis to solve the problem.
