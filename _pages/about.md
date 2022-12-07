@@ -82,11 +82,15 @@ title: "About"
 
 ---
 
-I am a senior <span class="em">full-stack developer</span> who is into various development technologies. I primarily work on the **web** development, but occasionally I immerse myself in mobile development.
+As a senior <span class="em">full-stack developer</span> with a diverse skillset and a passion for problem-solving, I have been fortunate to have worked on a wide range of exciting projects. With experience in both web and mobile development, I am adept at creating intuitive, user-friendly experiences that are both functional and visually appealing.
 
 ![img]({{ site.baseurl }}/assets/images/2022/11/04.jpg)
 
-I love <span class="un">realizing ideas into actual products</span> and solving technical problems. The process is a mix of excitement and torture, but mostly excitement.
+I am always eager to take on new challenges and push myself to learn and grow as a developer. Whether I'm working on a complex **web application** or a native mobile app, I thrive in fast-paced, collaborative environments where I can collaborate with other talented professionals to deliver innovative solutions.
+
+What sets me apart as a developer is my ability to think critically and approach problems from multiple angles. I am not afraid to experiment, take risks, and learn from my mistakes in order to continuously improve and deliver the best possible results.
+
+Overall, I am committed to <span class="un">delivering exceptional work and providing value to my clients.</span> I am confident that my skills and experience make me a valuable asset to any team, and I am excited to continue growing and learning as a full-stack developer.
 
 ## Personalities
 ### Empathic
