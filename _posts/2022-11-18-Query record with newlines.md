@@ -7,9 +7,11 @@ tags:
   - Ruby on Rails
   - ActiveRecord
   - PostgreSQL
+toc: true
+toc_sticky: true
 ---
 
-💡  I have to remove the newlines character if the column has any, but with '%/r/n%,' I can't locate any record, and here's how to solve the problem.
+I have to remove the newlines character if the column has any, but with '%/r/n%,' I can't locate any record, and here's how to solve the problem.
 {: .notice--info}
 
 ## SQL

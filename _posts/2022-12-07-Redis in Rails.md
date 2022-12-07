@@ -10,7 +10,7 @@ toc: true
 toc_sticky: true
 ---
 
-💡  Playreal encountered a performance issue when a large number of users logged in to retrieve game data and teammate records. I used Redis to solve the problem.
+Playreal encountered a performance issue when a large number of users logged in to retrieve game data and teammate records. I used Redis to solve the problem.
 {: .notice--info}
 
 ## What is Redis?
@@ -64,7 +64,7 @@ my_hash = Redis::Hash.new('my_hash')
 Overall, using Redis with Ruby on Rails is a straightforward process that can help improve the performance and scalability of your app.
 
 
-##### source: [OpenAI](https://openai.com/)
+**source: [OpenAI](https://openai.com/)**
 
 
 

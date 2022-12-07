@@ -6,9 +6,11 @@ categories:
 tags:
   - Learning
   - Coursera
+toc: true
+toc_sticky: true
 ---
 
-💡  Coursera is an online learning platform that offers courses in a wide range of subjects. The platform was founded in 2012, and it has since partnered with over 200 leading universities and companies. Coursera offers both free and paid courses, and its platform is accessible to anyone with an internet connection. It also offers online degrees and certificates.
+Coursera is an online learning platform that offers courses in a wide range of subjects. The platform was founded in 2012, and it has since partnered with over 200 leading universities and companies. Coursera offers both free and paid courses, and its platform is accessible to anyone with an internet connection. It also offers online degrees and certificates.
 {: .notice--info}
 
 ## What is Coursera?
@@ -34,7 +36,7 @@ Flexibility to learn on your own schedule, at your own pace.
 ## Conclusion
 There are several advantages to digital learning, including increased **flexibility and accessibility**, the ability to learn at **your own pace**, and the ability to access a wider range of educational materials. Digital learning can also be more interactive and engaging than traditional forms of education, which can make it more effective for some learners. Additionally, digital learning can be more **cost-effective** than traditional forms of education, as it often requires fewer resources and can be scaled more easily.
 
-##### source: [OpenAI](https://openai.com/)
+**source: [OpenAI](https://openai.com/)**
 
 
 

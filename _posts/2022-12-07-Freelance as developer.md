@@ -5,9 +5,11 @@ categories:
   - Web
 tags:
   - Freelance
+toc: true
+toc_sticky: true
 ---
 
-💡  Working as a freelancer has some advantages. It is more than just cash in your skills; it also gives you the freedom to pick the project that interests you.
+Working as a freelancer has some advantages. It is more than just cash in your skills; it also gives you the freedom to pick the project that interests you.
 {: .notice--info}
 
 ## Pros and Cons
@@ -67,7 +69,7 @@ There are many platforms that web developers can use to find freelance work. Som
 
 - LinkedIn: LinkedIn is a professional networking platform that can be used to find freelance work, including web development projects. Many businesses and individuals use LinkedIn to post job listings and find qualified freelancers.
 
-##### source: [OpenAI](https://openai.com/)
+**source: [OpenAI](https://openai.com/)**
 
 
 
