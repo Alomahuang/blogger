@@ -1,6 +1,6 @@
 ---
 title: "Deploy Your React Application on Surge."
-date: 2022-12-09 T12:54:00-00:00
+date: 2022-12-09 T00:00:00-00:00
 categories:
   - Web
 tags:
