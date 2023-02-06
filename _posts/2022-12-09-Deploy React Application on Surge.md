@@ -57,7 +57,7 @@ Once the deployment process is complete, your React application will be live on 
 
 In summary, deploying your React application on Surge is a simple and straightforward process. To do this, you will need to build your React project with the npm run build command, create a 200.html file for client-side routing, and then run the surge command to deploy your application. Follow the instructions on the Surge website to complete the deployment process and make your application live on the internet.
 
-**source: [OpenAI](https://openai.com/)**
+
 
 
 

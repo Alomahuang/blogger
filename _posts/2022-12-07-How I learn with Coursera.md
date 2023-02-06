@@ -36,7 +36,7 @@ Flexibility to learn on your own schedule, at your own pace.
 ## Conclusion
 There are several advantages to digital learning, including increased **flexibility and accessibility**, the ability to learn at **your own pace**, and the ability to access a wider range of educational materials. Digital learning can also be more interactive and engaging than traditional forms of education, which can make it more effective for some learners. Additionally, digital learning can be more **cost-effective** than traditional forms of education, as it often requires fewer resources and can be scaled more easily.
 
-**source: [OpenAI](https://openai.com/)**
+
 
 
 

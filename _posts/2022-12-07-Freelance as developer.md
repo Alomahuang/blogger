@@ -69,7 +69,7 @@ There are many platforms that web developers can use to find freelance work. Som
 
 - LinkedIn: LinkedIn is a professional networking platform that can be used to find freelance work, including web development projects. Many businesses and individuals use LinkedIn to post job listings and find qualified freelancers.
 
-**source: [OpenAI](https://openai.com/)**
+
 
 
 

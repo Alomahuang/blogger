@@ -64,8 +64,6 @@ my_hash = Redis::Hash.new('my_hash')
 Overall, using Redis with Ruby on Rails is a straightforward process that can help improve the performance and scalability of your app.
 
 
-**source: [OpenAI](https://openai.com/)**
-
 
 
 
