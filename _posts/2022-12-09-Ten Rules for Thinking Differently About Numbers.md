@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
 ---
 
-💡 The article contains high-quality content and many ideas correspond to Google's data analysis course, making it particularly impactful to read.
+💡 The book contains high-quality content and many ideas correspond to Google's data analysis course, making it particularly impactful to read.
 {: .notice--info}
 # How to Make the World Add Up: Ten Rules for Thinking Differently About Numbers
 

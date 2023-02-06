@@ -52,7 +52,7 @@ title: "About"
     font-family: ProximaNova, sans-serif;
     color: white;
     font-size: 2rem;
-    padding: 50px 80px;
+    padding: 10px 50px;
     display: flex;
     align-items: center;
     font-weight: 700;
@@ -82,15 +82,15 @@ title: "About"
 
 ---
 
-As a senior <span class="em">full-stack developer</span> with a diverse skillset and a passion for problem-solving, I have been fortunate to have worked on a wide range of exciting projects. With experience in both web and mobile development, I am adept at creating intuitive, user-friendly experiences that are both functional and visually appealing.
-
 ![img]({{ site.baseurl }}/assets/images/2022/11/04.jpg)
 
-I am always eager to take on new challenges and push myself to learn and grow as a developer. Whether I'm working on a complex **web application** or a native mobile app, I thrive in fast-paced, collaborative environments where I can collaborate with other talented professionals to deliver innovative solutions.
+As a freelancer, I specialize in helping people turn their business ideas into quick <span class="em">prototypes</span>. With a diverse skillset and a passion for problem-solving, I am able to quickly and effectively develop functional, user-friendly applications that are tailored to each client's specific needs.
 
-What sets me apart as a developer is my ability to think critically and approach problems from multiple angles. I am not afraid to experiment, take risks, and learn from my mistakes in order to continuously improve and deliver the best possible results.
+With experience in both **web** and mobile development, I am proficient in a wide range of technologies and platforms, and I am always eager to learn and experiment with new tools and techniques. This allows me to deliver high-quality, scalable solutions that can evolve and grow as a client's business grows.
 
-Overall, I am committed to <span class="un">delivering exceptional work and providing value to my clients.</span> I am confident that my skills and experience make me a valuable asset to any team, and I am excited to continue growing and learning as a full-stack developer.
+What sets me apart as a freelancer is my ability to think critically and approach problems from multiple angles. I am not afraid to experiment, take risks, and learn from my mistakes in order to continuously improve and deliver the best possible results.
+
+Overall, I am committed to <span class="un">providing exceptional service and value to my clients.</span> I am confident that my skills and experience make me a valuable asset to any team, and I am excited to continue growing and learning as a full-stack developer.
 
 ## Personalities
 
