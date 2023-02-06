@@ -1,5 +1,5 @@
 ---
-title: "How I learn with Coursera."
+title: How I learn with Coursera
 date: 2022-12-07 T00:00:00-00:00
 categories:
   - Learning

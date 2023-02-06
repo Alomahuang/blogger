@@ -1,5 +1,5 @@
 ---
-title: "Redis in Rails."
+title: Redis in Rails
 date: 2022-12-07 T00:00:00-00:00
 categories:
   - Web

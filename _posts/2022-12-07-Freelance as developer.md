@@ -1,5 +1,5 @@
 ---
-title: "Freelance as developer."
+title: Freelance as developer
 date: 2022-12-07 T00:00:00-00:00
 categories:
   - Web

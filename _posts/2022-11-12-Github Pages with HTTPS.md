@@ -1,5 +1,5 @@
 ---
-title: "Github Pages with HTTPS"
+title: Github Pages with HTTPS
 date: 2022-11-12 T00:00:00-00:00
 categories:
   - Web

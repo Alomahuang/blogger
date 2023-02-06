@@ -1,5 +1,5 @@
 ---
-title: "Query record with newlines"
+title: Query record with newlines
 date: 2022-11-18 T00:00:00-00:00
 categories:
   - Web

@@ -1,5 +1,5 @@
 ---
-title: "Deploy Your React Application on Surge."
+title: Intro to React State
 date: 2023-02-06 T00:00:00-00:00
 categories:
   - Web
@@ -11,8 +11,6 @@ toc_sticky: true
 
 React is a popular JavaScript library for building user interfaces. One of the critical features of React is its state management system, which helps manage and update the data displayed on the page. In this article, we will discuss what React state is and how it can be used to manage your application's data.
 {: .notice--info}
-
-![Sydney Opera House](https://images.unsplash.com/photo-1634536335485-cc577d6f30bb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2676&q=80)
 
 ## What is React State?
 
