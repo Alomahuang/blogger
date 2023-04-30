@@ -12,11 +12,15 @@ layout: archive
   {% assign posts = site.posts %}
 {% endif %}
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
+<div class="entries-list">
   {% for post in posts %}
     {% if post.hidden != true %}
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <div class="entry">
+        <h2 class="entry-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+        <div class="entry-content">{{ post.excerpt }}</div>
+      </div>
     {% endif %}
   {% endfor %}
 </div>
