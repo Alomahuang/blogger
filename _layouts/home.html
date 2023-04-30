@@ -19,7 +19,11 @@ layout: archive
         <h2 class="entry-title">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h2>
-        <div class="entry-content">{{ post.excerpt }}</div>
+        {% if post.image %}
+          <img src="{{ post.image }}" alt="{{ post.title }}">
+        {% elsif post.excerpt %}
+          <div class="entry-content">{{ post.excerpt }}</div>
+        {% endif %}
       </div>
     {% endif %}
   {% endfor %}
