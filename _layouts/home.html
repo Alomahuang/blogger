@@ -12,19 +12,11 @@ layout: archive
   {% assign posts = site.posts %}
 {% endif %}
 
-<div class="entries-list">
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
   {% for post in posts %}
     {% if post.hidden != true %}
-      <div class="entry">
-        <h2 class="entry-title">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </h2>
-        {% if post.image %}
-          <img src="{{ post.image }}" alt="{{ post.title }}">
-        {% elsif post.excerpt %}
-          <div class="entry-content">{{ post.excerpt }}</div>
-        {% endif %}
-      </div>
+        {% include archive-single.html type=entries_layout %}
     {% endif %}
   {% endfor %}
 </div>
