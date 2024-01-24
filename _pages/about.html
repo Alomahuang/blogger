@@ -5,29 +5,36 @@ permalink: /about/
 ---
 
 <style>
+  .block .content {
+    display: flex;
+    flex-direction: row; /* Default is row, so they are side by side */
+    justify-content: space-evenly; /* Adjust this as per your design */
+    align-items: center; /* Adjust vertical alignment as needed */
+    padding: 50px;
+  }
+
+  .block .text-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 400px;
+  }
+
+  .block .image-content {
+    /* Add styles for image container if needed */
+  }
+
+  @media screen and (max-width: 600px) {
     .block .content {
-      display: flex;
-      flex-direction: row; /* Default is row, so they are side by side */
-      justify-content: space-evenly; /* Adjust this as per your design */
-      align-items: center; /* Adjust vertical alignment as needed */
+      flex-direction: column; /* Stack them on top of each other for small screens */
     }
-
-    .block .text-content {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      max-width: 400px;
-    }
-
     .block .image-content {
-      /* Add styles for image container if needed */
+      display: flex;
+      width: 100%;
+      justify-content: flex-end;
+      margin-top: 30px;
     }
-
-    @media screen and (max-width: 500px) {
-      .block .content {
-        flex-direction: column; /* Stack them on top of each other for small screens */
-      }
-    }
+  }
   .flex-column {
     display: flex;
     flex-direction: column;
@@ -36,41 +43,68 @@ permalink: /about/
   }
 </style>
 <div>
-  <div class="block" style="background-color: rgb(242, 242, 242);">
+  <div class="block" style="background-color: rgb(242, 242, 242)">
     <div class="content">
       <div class="text-content">
         <h1>Sr. Full-Stack Developer</h1>
-        <h2 style="font-size: 1em; font-weight: 200; text-decoration: underline; line-height: 1; margin: 0; margin-bottom: 40px">Co-founder & CTO @ Playreal</h2>
-        <span>Experienced in JavaScript, Ruby on Rails, React, C#, Angular, SQL, etc</span>
+        <h2
+          style="
+            font-size: 1em;
+            font-weight: 200;
+            text-decoration: underline;
+            line-height: 1;
+            margin: 0;
+            margin-bottom: 40px;
+          "
+        >
+          Co-founder & CTO @ Playreal
+        </h2>
+        <span
+          >Experienced in JavaScript, Ruby on Rails, React, C#, Angular, SQL,
+          etc</span
+        >
       </div>
       <div class="image-content">
-        <img src="/assets/images/2024/01/profile.png" alt="" />
-      </div> 
+        <img
+          style="width: 30vw"
+          src="/assets/images/2024/01/profile.png"
+          alt=""
+        />
+      </div>
     </div>
   </div>
-  <div class="block" style="background-color: #0b3650;">
-    <div class="content" style="font-size: 1em;">
-    <div class="flex-column">
-      <span style="margin-bottom: 10px;font-size: 0.7em;">/Technical Skills</span>
-      <span>Javascript</span>
-      <span>Ruby on Rails</span>
-      <span>PostgreSQL</span>
-      <span>React</span>
-      <span>Angular</span>
-      <span>AWS</span>
-    </div>
-    <div class="flex-column">
-      <span>/Certificates</span>
-      <span>Google IT Automation with Python</span>
-      <span>Google IT Support</span>
-      <span>Google Data Analytics</span>
-      <span>Google Project Management</span>
-      <span>Google Digital Marketing & E-commerce</span>
-      <span>AWS Certified Cloud Practitioner</span>
-      <span>...</span>
+  <div class="block" style="background-color: #0b3650; color: white">
+    <div class="content" style="font-size: 1em">
+      <div class="flex-column">
+        <span style="margin-bottom: 10px; font-size: 0.7em"
+          >/Technical Skills</span>
+        <span>Javascript</span>
+        <span>Ruby on Rails</span>
+        <span>PostgreSQL</span>
+        <span>React</span>
+        <span>Angular</span>
+        <span>AWS</span>
+      </div>
+      <div class="flex-column">
+        <span style="margin-bottom: 10px;font-size: 1em">/Certificates</span>
+        <span>Google IT Automation with Python</span>
+        <span>Google IT Support</span>
+        <span>Google Data Analytics</span>
+        <span>Google Project Management</span>
+        <span>Google Digital Marketing & E-commerce</span>
+        <span>AWS Certified Cloud Practitioner</span>
+        <span>...</span>
+      </div>
     </div>
   </div>
+  <div class="block" style="background-color: rgb(242, 242, 242)">
+    <div style="display: flex;flex-direction: column;">
+      <span style="margin-bottom: 10px;font-size: 1em">/Experiences</span>
+      <div class="Experiences-block">
+        <div class="Experices-time">Mar 2022 — Present</div>
+        <div class="Experices-title"><span>Co-Founder and Full Stack Engineer</span> @ Playreal</div>
+      </div>
+    </div>
   </div>
-  <div class="block"></div>
   <div class="block"></div>
 </div>
