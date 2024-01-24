@@ -21,6 +21,8 @@ twitter_username: hsuchenghuang
 github_username: Alomahuang
 minimal_mistakes_skin: default
 search: true
+url: "https://alomahuang.com"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
