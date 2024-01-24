@@ -5,11 +5,29 @@ permalink: /about/
 ---
 
 <style>
-  .block {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+    .block .content {
+      display: flex;
+      flex-direction: row; /* Default is row, so they are side by side */
+      justify-content: space-evenly; /* Adjust this as per your design */
+      align-items: center; /* Adjust vertical alignment as needed */
+    }
+
+    .block .text-content {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      max-width: 400px;
+    }
+
+    .block .image-content {
+      /* Add styles for image container if needed */
+    }
+
+    @media screen and (max-width: 500px) {
+      .block .content {
+        flex-direction: column; /* Stack them on top of each other for small screens */
+      }
+    }
   .flex-column {
     display: flex;
     flex-direction: column;
@@ -19,24 +37,21 @@ permalink: /about/
 </style>
 <div>
   <div class="block" style="background-color: rgb(242, 242, 242);">
-    <div style="display: flex; flex-direction: column">
-      <div>
-        <h1>Sr. Full-StackDeveloper</h1>
-        <h2>Co-founder & CTO @ Playreal</h2>
+    <div class="content">
+      <div class="text-content">
+        <h1>Sr. Full-Stack Developer</h1>
+        <h2 style="font-size: 1em; font-weight: 200; text-decoration: underline; line-height: 1; margin: 0; margin-bottom: 40px">Co-founder & CTO @ Playreal</h2>
+        <span>Experienced in JavaScript, Ruby on Rails, React, C#, Angular, SQL, etc</span>
       </div>
-      <div>
-        <span
-          >Experienced in JavaScript, Ruby on Rails, React, C#, Angular, SQL,
-          etc
-        </span>
-      </div>
-    </div>
-    <div><img src="/assets/images/2024/01/profile.png" alt="" /></div> 
+      <div class="image-content">
+        <img src="/assets/images/2024/01/profile.png" alt="" />
+      </div> 
     </div>
   </div>
-  <div class="block">
+  <div class="block" style="background-color: #0b3650;">
+    <div class="content" style="font-size: 1em;">
     <div class="flex-column">
-      <span>/Technical Skills</span>
+      <span style="margin-bottom: 10px;font-size: 0.7em;">/Technical Skills</span>
       <span>Javascript</span>
       <span>Ruby on Rails</span>
       <span>PostgreSQL</span>
@@ -54,6 +69,7 @@ permalink: /about/
       <span>AWS Certified Cloud Practitioner</span>
       <span>...</span>
     </div>
+  </div>
   </div>
   <div class="block"></div>
   <div class="block"></div>
