@@ -7,8 +7,10 @@ permalink: /about/
 <style>
   .block .content {
     display: flex;
-    flex-direction: row; /* Default is row, so they are side by side */
-    align-items: center; /* Adjust vertical alignment as needed */
+    flex-direction: row;
+    /* Default is row, so they are side by side */
+    align-items: center;
+    /* Adjust vertical alignment as needed */
     padding: 50px;
   }
 
@@ -29,7 +31,7 @@ permalink: /about/
   }
 
   .profile-image-mobile {
-      display: none;
+    display: none;
   }
 
   .flex-column {
@@ -38,54 +40,65 @@ permalink: /about/
     justify-content: center;
     align-items: center;
   }
-  .experiences-block{
+
+  .experiences-block {
     display: flex;
     flex-direction: column;
     margin-bottom: 20px;
   }
-  .experiences-block:last-child{
+
+  .experiences-block:last-child {
     margin-bottom: 0;
   }
-  .experiences-time{
+
+  .experiences-time {
     font-weight: 200;
     margin-bottom: 5px;
+    font-size: 0.9em;
   }
-  .experiences-title{
-    font-size: 1.2em;
+
+  .experiences-title {
+    font-size: 1em;
   }
-  .title{
+
+  .title {
+    text-decoration: underline;
     font-weight: 700;
-    color:#E59D23;
+    color: #e59d23;
   }
 
   @media screen and (max-width: 600px) {
     .block .content {
-      flex-direction: column; /* Stack them on top of each other for small screens */
+      flex-direction: column;
+      /* Stack them on top of each other for small screens */
       padding: 20px 50px;
     }
+
     .block .image-content {
       display: flex;
       width: 100%;
       justify-content: center;
       margin: 30px 0;
     }
+
     .profile-image-web {
-      display:none;
+      display: none;
     }
+
     .profile-image-mobile {
       width: 40vw;
       display: block;
     }
-    .flex-column:first-child {
-            margin-bottom: 30px;
-        }
-  }
 
+    .flex-column:first-child {
+      margin-bottom: 30px;
+    }
+  }
 </style>
 <div>
   <div class="block" style="background-color: rgb(242, 242, 242)">
     <div class="content" style="justify-content: center">
-      <div class="text-content" style="margin-right: 30px;">
+      <div class="text-content" style="margin-right: 30px">
         <h1>Sr. Full-Stack Developer</h1>
         <h2
           style="
@@ -121,7 +134,10 @@ permalink: /about/
     </div>
   </div>
   <div class="block" style="background-color: #0b3650; color: white">
-    <div class="content" style="font-size: 1em;justify-content: space-evenly;padding:50px">
+    <div
+      class="content"
+      style="font-size: 1em; justify-content: space-evenly; padding: 50px"
+    >
       <div class="flex-column">
         <span style="margin-bottom: 10px; font-size: 0.7em"
           >/Technical Skills</span
@@ -146,13 +162,14 @@ permalink: /about/
     </div>
   </div>
   <div class="block" style="background-color: rgb(242, 242, 242)">
-    <div class="content" style="justify-content: center;">
+    <div class="content" style="justify-content: center">
       <div style="display: flex; flex-direction: column">
         <span style="margin-bottom: 10px; font-size: 0.7em">/Experiences</span>
         <div class="experiences-block">
           <div class="experiences-time">Mar 2022 — Present</div>
           <div class="experiences-title">
-            <span class="title">Co-Founder and Full Stack Engineer</span> @ Playreal
+            <span class="title">Co-Founder and Full Stack Engineer</span> @
+            Playreal
           </div>
         </div>
         <div class="experiences-block">
@@ -162,7 +179,9 @@ permalink: /about/
           </div>
         </div>
         <div class="experiences-block">
-          <div class="experiences-time">August 2020 - April 2022 (including Freelance)</div>
+          <div class="experiences-time">
+            August 2020 - April 2022 (including Freelance)
+          </div>
           <div class="experiences-title">
             <span class="title">Full Stack Engineer </span> @ Clubon
           </div>
@@ -170,34 +189,83 @@ permalink: /about/
         <div class="experiences-block">
           <div class="experiences-time">August 2021 — April 2022</div>
           <div class="experiences-title">
-            <span class="title">Operations Engineer >> Software Engineer >> Senior Software Engineer </span> @ ESI Technology
+            <span class="title"
+              >Operations Engineer >> Software Engineer >> Senior Software
+              Engineer
+            </span>
+            @ ESI Technology
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="block" style="background-color: #0b3650; color: white">
-    <div class="content" style="justify-content: center;">
-      <div class="image-content" style="margin-right: 30px;">
+  <div
+    class="block"
+    style="
+      background-color: #0b3650;
+      color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    "
+  >
+    <div class="content" style="justify-content: center">
+      <div class="image-content" style="margin-right: 80px">
         <img
+          style="max-width: 400px; min-width: 200px; border-radius: 50%"
           class="profile-image-web"
           src="/assets/images/2024/01/group.png"
           alt=""
         />
       </div>
-      <div class="text-content" style="margin-right: 30px;">
-        <p>I am an experienced senior developer who is dedicated to delivering top-notch solutions. I have a knack for thinking creatively, strong communication skills, and excel at leading cross-functional teams. </p>
-        <p>My primary focus is on achieving our shared goals while fostering a positive and collaborative work environment. I am empathetic and always willing to understand and help solve people's problems.</p>
+      <div class="text-content" style="max-width: 600px">
+        <p>
+          I am an experienced senior developer who is dedicated to delivering
+          top-notch solutions. I have a knack for thinking creatively, strong
+          communication skills, and excel at leading cross-functional teams.
+        </p>
+        <p>
+          My primary focus is on achieving our shared goals while fostering a
+          positive and collaborative work environment. I am empathetic and
+          always willing to understand and help solve people's problems.
+        </p>
         <div class="image-content">
           <img
+            style="max-width: 400px; min-width: 200px; border-radius: 50%"
             class="profile-image-mobile"
             src="/assets/images/2024/01/group.png"
             alt=""
           />
         </div>
-        <p>I am a goal-oriented individual who enjoys setting and working towards ambitious targets while savoring the journey. </p>
-        <p>Oh, and I speak 🥟Chinese, 🍔English and un peu 🥐French.</p>
+        <p>
+          I am a goal-oriented individual who enjoys setting and working towards
+          ambitious targets while savoring the journey.
+        </p>
+        <p>Oh, and I speak 🥟Chinese, 🍔English and 🥐French.</p>
       </div>
+    </div>
+    <div style="width: 200px;display: flex;justify-content: space-between;align-items: center;padding: 50px;font-size: 2em;">
+      👉
+      <a
+        href="https://www.linkedin.com/in/hsucheng-huang/"
+        target="_blank"
+        rel="noopener"
+        title="Go to Linkedin-in page"
+        style="color: white"
+        ><svg
+          width="30"
+          height="30"
+          viewBox="0 0 24 24"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M5.37214 23.9997H0.396429V7.97649H5.37214V23.9997ZM2.88161 5.79078C1.29054 5.79078 0 4.47292 0 2.88185C1.13882e-08 2.1176 0.303597 1.38465 0.844003 0.844247C1.38441 0.303841 2.11736 0.000244141 2.88161 0.000244141C3.64586 0.000244141 4.3788 0.303841 4.91921 0.844247C5.45962 1.38465 5.76321 2.1176 5.76321 2.88185C5.76321 4.47292 4.47214 5.79078 2.88161 5.79078ZM23.9946 23.9997H19.0296V16.1997C19.0296 14.3408 18.9921 11.9569 16.4427 11.9569C13.8557 11.9569 13.4593 13.9765 13.4593 16.0658V23.9997H8.48893V7.97649H13.2611V10.1622H13.3307C13.995 8.90328 15.6177 7.57471 18.0386 7.57471C23.0743 7.57471 24 10.8908 24 15.1979V23.9997H23.9946Z"
+            fill="currentColor"
+          ></path>
+        </svg>
+      </a>
+      👈
     </div>
   </div>
 </div>
