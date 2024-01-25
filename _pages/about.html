@@ -8,7 +8,6 @@ permalink: /about/
   .block .content {
     display: flex;
     flex-direction: row; /* Default is row, so they are side by side */
-    justify-content: space-evenly; /* Adjust this as per your design */
     align-items: center; /* Adjust vertical alignment as needed */
     padding: 50px;
   }
@@ -21,31 +20,72 @@ permalink: /about/
   }
 
   .block .image-content {
-    /* Add styles for image container if needed */
+    display: flex;
+    justify-content: center;
   }
 
-  @media screen and (max-width: 600px) {
-    .block .content {
-      flex-direction: column; /* Stack them on top of each other for small screens */
-    }
-    .block .image-content {
-      display: flex;
-      width: 100%;
-      justify-content: flex-end;
-      margin-top: 30px;
-    }
+  .profile-image-web {
+    width: 30vw;
   }
+
+  .profile-image-mobile {
+      display: none;
+  }
+
   .flex-column {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
   }
+  .experiences-block{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  .experiences-block:last-child{
+    margin-bottom: 0;
+  }
+  .experiences-time{
+    font-weight: 200;
+    margin-bottom: 5px;
+  }
+  .experiences-title{
+    font-size: 1.2em;
+  }
+  .title{
+    font-weight: 700;
+    color:#E59D23;
+  }
+
+  @media screen and (max-width: 600px) {
+    .block .content {
+      flex-direction: column; /* Stack them on top of each other for small screens */
+      padding: 20px 50px;
+    }
+    .block .image-content {
+      display: flex;
+      width: 100%;
+      justify-content: center;
+      margin: 30px 0;
+    }
+    .profile-image-web {
+      display:none;
+    }
+    .profile-image-mobile {
+      width: 40vw;
+      display: block;
+    }
+    .flex-column:first-child {
+            margin-bottom: 30px;
+        }
+  }
+
 </style>
 <div>
   <div class="block" style="background-color: rgb(242, 242, 242)">
-    <div class="content">
-      <div class="text-content">
+    <div class="content" style="justify-content: center">
+      <div class="text-content" style="margin-right: 30px;">
         <h1>Sr. Full-Stack Developer</h1>
         <h2
           style="
@@ -59,6 +99,13 @@ permalink: /about/
         >
           Co-founder & CTO @ Playreal
         </h2>
+        <div class="image-content">
+          <img
+            class="profile-image-mobile"
+            src="/assets/images/2024/01/profile.png"
+            alt=""
+          />
+        </div>
         <span
           >Experienced in JavaScript, Ruby on Rails, React, C#, Angular, SQL,
           etc</span
@@ -66,7 +113,7 @@ permalink: /about/
       </div>
       <div class="image-content">
         <img
-          style="width: 30vw"
+          class="profile-image-web"
           src="/assets/images/2024/01/profile.png"
           alt=""
         />
@@ -74,7 +121,7 @@ permalink: /about/
     </div>
   </div>
   <div class="block" style="background-color: #0b3650; color: white">
-    <div class="content" style="font-size: 1em">
+    <div class="content" style="font-size: 1em;justify-content: space-evenly;padding:50px">
       <div class="flex-column">
         <span style="margin-bottom: 10px; font-size: 0.7em"
           >/Technical Skills</span
@@ -99,17 +146,58 @@ permalink: /about/
     </div>
   </div>
   <div class="block" style="background-color: rgb(242, 242, 242)">
-    <div class="content">
+    <div class="content" style="justify-content: center;">
       <div style="display: flex; flex-direction: column">
-        <span style="margin-bottom: 10px; font-size: 1em">/Experiences</span>
-        <div class="Experiences-block">
-          <div class="Experices-time">Mar 2022 — Present</div>
-          <div class="Experices-title">
-            <span>Co-Founder and Full Stack Engineer</span> @ Playreal
+        <span style="margin-bottom: 10px; font-size: 0.7em">/Experiences</span>
+        <div class="experiences-block">
+          <div class="experiences-time">Mar 2022 — Present</div>
+          <div class="experiences-title">
+            <span class="title">Co-Founder and Full Stack Engineer</span> @ Playreal
+          </div>
+        </div>
+        <div class="experiences-block">
+          <div class="experiences-time">August 2021 — April 2022</div>
+          <div class="experiences-title">
+            <span class="title">System Architect </span> @ Colerate
+          </div>
+        </div>
+        <div class="experiences-block">
+          <div class="experiences-time">August 2020 - April 2022 (including Freelance)</div>
+          <div class="experiences-title">
+            <span class="title">Full Stack Engineer </span> @ Clubon
+          </div>
+        </div>
+        <div class="experiences-block">
+          <div class="experiences-time">August 2021 — April 2022</div>
+          <div class="experiences-title">
+            <span class="title">Operations Engineer >> Software Engineer >> Senior Software Engineer </span> @ ESI Technology
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="block"></div>
+  <div class="block" style="background-color: #0b3650; color: white">
+    <div class="content" style="justify-content: center;">
+      <div class="image-content" style="margin-right: 30px;">
+        <img
+          class="profile-image-web"
+          src="/assets/images/2024/01/group.png"
+          alt=""
+        />
+      </div>
+      <div class="text-content" style="margin-right: 30px;">
+        <p>I am an experienced senior developer who is dedicated to delivering top-notch solutions. I have a knack for thinking creatively, strong communication skills, and excel at leading cross-functional teams. </p>
+        <p>My primary focus is on achieving our shared goals while fostering a positive and collaborative work environment. I am empathetic and always willing to understand and help solve people's problems.</p>
+        <div class="image-content">
+          <img
+            class="profile-image-mobile"
+            src="/assets/images/2024/01/group.png"
+            alt=""
+          />
+        </div>
+        <p>I am a goal-oriented individual who enjoys setting and working towards ambitious targets while savoring the journey. </p>
+        <p>Oh, and I speak 🥟Chinese, 🍔English and un peu 🥐French.</p>
+      </div>
+    </div>
+  </div>
 </div>
